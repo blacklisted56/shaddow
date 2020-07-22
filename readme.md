@@ -7,6 +7,8 @@ Get Perfect shadow every time for non-designer
 
 `npm i shadow --save`
 
+Then...
+
 ...
 import {shadow} from 'shadow';
 
